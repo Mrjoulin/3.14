@@ -1,3 +1,6 @@
 from 2 import *
-print('Hello! It is pi')
-2(0, [1, 2])
+i = 0
+while True:
+  print('Hello! It is pi')
+  2(i, [1, 2])
+  i += 1
