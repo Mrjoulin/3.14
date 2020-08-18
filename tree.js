@@ -1,1 +1,1 @@
-alert("Hello World tree");
+console.log("Hello World tree");
